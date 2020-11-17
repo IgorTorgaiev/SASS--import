@@ -1,0 +1,32 @@
+body {
+  background-color: aquamarine; }
+
+p {
+  color: red;
+  margin: 10px; }
+
+h1 {
+  color: red; }
+
+h3 {
+  text-align: center;
+  background-color: grey;
+  padding: 15px; }
+
+img {
+  float: right; }
+
+img:hover {
+  display: none; }
+
+div {
+  float: left;
+  margin-left: 30px;
+  height: 100px;
+  width: 100px;
+  background-color: green; }
+
+.zoom:hover {
+  transform: scale(1.5); }
+
+/*# sourceMappingURL=extra.css.map */
